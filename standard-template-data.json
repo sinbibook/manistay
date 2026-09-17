@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-09-17T00:27:19.930036249Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-09-17T00:27:35.234727044Z",
     "templateType": "trip_d",
     "propertyId": "6120bb1f-ec69-48b8-bd22-7211ba39fce1",
     "homepageId": "7a4ae342-342d-4d17-a955-241fdd73fdda"
@@ -29,6 +29,8 @@
     "domain": "manistay.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1400715",
     "ybsId": "76733",
+    "tripPropertyId": "8179",
+    "partnerType": "distributor_a",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -363,9 +365,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "8179",
-    "partnerType": "distributor_a"
+    ]
   },
   "rooms": [
     {
