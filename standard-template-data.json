@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-10-20T07:41:11.076892171Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-10-23T03:08:15.700964170Z",
     "templateType": "trip_d",
     "propertyId": "6120bb1f-ec69-48b8-bd22-7211ba39fce1",
     "homepageId": "7a4ae342-342d-4d17-a955-241fdd73fdda"
@@ -1159,8 +1159,8 @@
             "title": "",
             "images": [
               {
-                "id": "01a0acc2-babe-78bb-a0c3-66f53876494a",
-                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7a4ae342-342d-4d17-a955-241fdd73fdda/popup/1789604837642-aosdykny69.jpg",
+                "id": "01a166bb-0114-7913-8b46-d8cfc1c24688",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/7a4ae342-342d-4d17-a955-241fdd73fdda/popup/1792724893460-2ikdqrri4w.png",
                 "sortOrder": 1,
                 "description": "",
                 "isSelected": true,
@@ -1487,7 +1487,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
